@@ -1,4 +1,4 @@
-# predict a diagnosis
+# predict a diagnosis by sonu
 
 
 import pandas as pd
